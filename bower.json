@@ -1,0 +1,19 @@
+{
+  "name": "magento_reveal",
+  "version": "0.0.0",
+  "authors": [
+    "Didier Berlioz <berliozd@gmail.com>"
+  ],
+  "description": "magento presentation using reveal",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.1.0"
+  }
+}
